@@ -5,18 +5,20 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/components/header/header.component';
-import { HomeComponent } from './features/home/pages/home/home/home.component';
+import { HomeModule } from './features/home/pages/home/home.module';
+
+
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    HomeComponent,
     FooterComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HomeModule
 
   ],
   providers: [],
