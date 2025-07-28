@@ -1,0 +1,31 @@
+.app-header {
+  background-color: #1e1e2f;
+  color: #a3d9a5;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  user-select: none;
+
+  h1 {
+    font-size: 2.4rem;
+    margin: 0 0 0.3rem 0;
+    font-weight: 700;
+  }
+
+  p {
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin: 0;
+  }
+
+  @media (max-width: 600px) {
+    padding: 1rem 0.5rem;
+
+    h1 {
+      font-size: 1.8rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
