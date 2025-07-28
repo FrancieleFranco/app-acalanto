@@ -1,0 +1,19 @@
+.app-footer {
+  background-color: #6a9a8d;
+  color: #f0f4f8;
+  font-size: 0.875rem;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  user-select: none;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+  width: 100%;
+  left: 0;
+
+  @media (max-width: 600px) {
+    font-size: 0.75rem;
+    padding: 0.5rem 0.5rem;
+  }
+}

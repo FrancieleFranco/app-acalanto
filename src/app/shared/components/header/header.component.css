@@ -1,31 +1,39 @@
 .app-header {
-  background-color: #1e1e2f;
-  color: #a3d9a5;
-  padding: 1.5rem 1rem;
+  background-color: #6a9a8d;
+  color: #f0f4f8;
+  padding: 1rem;
   text-align: center;
   user-select: none;
 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 100%;
+  left: 0;
+
   h1 {
-    font-size: 2.4rem;
-    margin: 0 0 0.3rem 0;
+    font-size: 1.8rem;
+    margin: 0 0 0.2rem 0;
     font-weight: 700;
   }
 
   p {
-    font-weight: 300;
-    font-size: 1.2rem;
+    font-weight: 400;
+    font-size: 1rem;
     margin: 0;
   }
 
   @media (max-width: 600px) {
-    padding: 1rem 0.5rem;
+    padding: 0.75rem;
 
     h1 {
-      font-size: 1.8rem;
+      font-size: 1.4rem;
     }
 
     p {
-      font-size: 1rem;
+      font-size: 0.875rem;
     }
   }
 }
