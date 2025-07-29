@@ -1,27 +1,31 @@
-# AppAcalanto
+# Acalanto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+## Descrição
 
-## Development server
+Acalanto é um aplicativo web desenvolvido em Angular que oferece mensagens positivas para pessoas que estejam passando por momentos difíceis. O app tem como objetivo acolher o usuário com um design simples, acessível e responsivo, promovendo bem-estar e conforto através de mensagens inspiradoras.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- Angular (16)  
+- SCSS (focado em responsividade e acessibilidade)  
+- Hospedagem gratuita na Vercel  
+- Api fake com das mockados
+## Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Exibição de mensagens positivas e inspiradoras para o usuário  
+- Layout responsivo e acessível.
 
-## Build
+## Como Rodar Localmente
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone o repositório:
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Instale as dependências:
+npm install
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Execute o projeto:
+ng serve --open
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Acesse no navegador:
+http://localhost:4200
