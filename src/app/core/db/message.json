@@ -1,0 +1,404 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "text": "Você é mais forte do que imagina."
+        },
+        {
+            "id": 2,
+            "text": "Ame-se primeiro. Todo o resto se encaixa."
+        },
+        {
+            "id": 3,
+            "text": "Você não precisa ser perfeito para ser incrível."
+        },
+        {
+            "id": 4,
+            "text": "Acredite no seu valor, mesmo quando duvidarem."
+        },
+        {
+            "id": 5,
+            "text": "Você é suficiente, exatamente como é."
+        },
+        {
+            "id": 6,
+            "text": "Pensamentos positivos atraem boas energias."
+        },
+        {
+            "id": 7,
+            "text": "Cada dia é uma nova chance de recomeçar."
+        },
+        {
+            "id": 8,
+            "text": "O mundo muda quando você muda sua visão."
+        },
+        {
+            "id": 9,
+            "text": "Gratidão transforma qualquer rotina."
+        },
+        {
+            "id": 10,
+            "text": "Veja obstáculos como degraus, não muros."
+        },
+        {
+            "id": 11,
+            "text": "O que te fez cair hoje vai te fortalecer amanhã."
+        },
+        {
+            "id": 12,
+            "text": "Não desista: até o mar encontra força nas ondas."
+        },
+        {
+            "id": 13,
+            "text": "Toda dor tem prazo de validade."
+        },
+        {
+            "id": 14,
+            "text": "Respirar fundo também é um ato de coragem."
+        },
+        {
+            "id": 15,
+            "text": "A esperança é mais teimosa que o medo."
+        },
+        {
+            "id": 16,
+            "text": "Sonhe grande. Comece pequeno. Não pare nunca."
+        },
+        {
+            "id": 17,
+            "text": "Seu futuro agradece pelas escolhas de hoje."
+        },
+        {
+            "id": 18,
+            "text": "Faça por você. Sempre."
+        },
+        {
+            "id": 19,
+            "text": "Onde há paixão, há caminho."
+        },
+        {
+            "id": 20,
+            "text": "Pequenos passos constroem grandes trajetórias."
+        },
+        {
+            "id": 21,
+            "text": "Se trate como alguém que você ama."
+        },
+        {
+            "id": 22,
+            "text": "Descansar também é produtividade."
+        },
+        {
+            "id": 23,
+            "text": "Gentileza consigo mesmo é revolucionária."
+        },
+        {
+            "id": 24,
+            "text": "Seu ritmo é válido. Sua jornada é única."
+        },
+        {
+            "id": 25,
+            "text": "Cuide de você com carinho e respeito."
+        },
+        {
+            "id": 26,
+            "text": "Você é luz mesmo nos dias nublados."
+        },
+        {
+            "id": 27,
+            "text": "Seu valor não depende da opinião dos outros."
+        },
+        {
+            "id": 28,
+            "text": "Você pode recomeçar quantas vezes precisar."
+        },
+        {
+            "id": 29,
+            "text": "Confie no processo. Tudo tem seu tempo."
+        },
+        {
+            "id": 30,
+            "text": "Você merece tudo que deseja — e mais."
+        },
+        {
+            "id": 31,
+            "text": "Não compare sua jornada com a de ninguém."
+        },
+        {
+            "id": 32,
+            "text": "Errar é parte do caminho, não o fim dele."
+        },
+        {
+            "id": 33,
+            "text": "Você é capaz de se reinventar a qualquer momento."
+        },
+        {
+            "id": 34,
+            "text": "Não espere por motivação: crie hábito."
+        },
+        {
+            "id": 35,
+            "text": "Peça ajuda. Isso é sinal de sabedoria, não fraqueza."
+        },
+        {
+            "id": 36,
+            "text": "Seu progresso importa, mesmo que seja lento."
+        },
+        {
+            "id": 37,
+            "text": "Você é digno de amor e respeito — sempre."
+        },
+        {
+            "id": 38,
+            "text": "Sinta o medo, mas siga em frente."
+        },
+        {
+            "id": 39,
+            "text": "Liberte-se das expectativas alheias."
+        },
+        {
+            "id": 40,
+            "text": "Você está florescendo — mesmo se não percebe."
+        },
+        {
+            "id": 41,
+            "text": "A vida é feita de ciclos. Você está se transformando."
+        },
+        {
+            "id": 42,
+            "text": "Dizer não é um ato de autocuidado."
+        },
+        {
+            "id": 43,
+            "text": "Você não precisa dar conta de tudo."
+        },
+        {
+            "id": 44,
+            "text": "Seja gentil com suas cicatrizes."
+        },
+        {
+            "id": 45,
+            "text": "Permita-se sentir. Emoções são humanas."
+        },
+        {
+            "id": 46,
+            "text": "Você merece descanso, não só resultados."
+        },
+        {
+            "id": 47,
+            "text": "Recomeçar é sinal de coragem, não de fracasso."
+        },
+        {
+            "id": 48,
+            "text": "Seja sua melhor companhia."
+        },
+        {
+            "id": 49,
+            "text": "Você é o protagonista da sua história."
+        },
+        {
+            "id": 50,
+            "text": "Confie no seu tempo, ele é perfeito para você."
+        },
+        {
+            "id": 51,
+            "text": "A dor ensina, mas não define."
+        },
+        {
+            "id": 52,
+            "text": "Você está aprendendo mesmo quando erra."
+        },
+        {
+            "id": 53,
+            "text": "Se valorize: sua presença muda ambientes."
+        },
+        {
+            "id": 54,
+            "text": "Não se esconda para caber. Expanda!"
+        },
+        {
+            "id": 55,
+            "text": "Você não é o que aconteceu com você. Você é o que escolhe se tornar."
+        },
+        {
+            "id": 56,
+            "text": "Seja grato pela jornada, não só pelo destino."
+        },
+        {
+            "id": 57,
+            "text": "Você tem permissão para mudar de ideia."
+        },
+        {
+            "id": 58,
+            "text": "Tudo que você precisa já vive em você."
+        },
+        {
+            "id": 59,
+            "text": "Você pode ser suave e forte ao mesmo tempo."
+        },
+        {
+            "id": 60,
+            "text": "Cuide da sua saúde emocional como cuida do seu corpo."
+        },
+        {
+            "id": 61,
+            "text": "O seu valor nunca será medido por produtividade."
+        },
+        {
+            "id": 62,
+            "text": "Você merece gentileza — especialmente de si mesmo."
+        },
+        {
+            "id": 63,
+            "text": "Errar não te faz menos digno."
+        },
+        {
+            "id": 64,
+            "text": "A sua paz vale decisões difíceis."
+        },
+        {
+            "id": 65,
+            "text": "Você não precisa agradar todo mundo."
+        },
+        {
+            "id": 66,
+            "text": "Não existe caminho certo — existe o seu."
+        },
+        {
+            "id": 67,
+            "text": "Permita-se brilhar sem pedir permissão."
+        },
+        {
+            "id": 68,
+            "text": "Você não precisa ter todas as respostas agora."
+        },
+        {
+            "id": 69,
+            "text": "A vida muda quando você escolhe se cuidar."
+        },
+        {
+            "id": 70,
+            "text": "Você é um universo em constante expansão."
+        },
+        {
+            "id": 71,
+            "text": "Você merece tudo que deseja viver."
+        },
+        {
+            "id": 72,
+            "text": "Não se culpe por descansar."
+        },
+        {
+            "id": 73,
+            "text": "Seu corpo e mente têm limites — respeite-os."
+        },
+        {
+            "id": 74,
+            "text": "Você pode escolher o que carrega."
+        },
+        {
+            "id": 75,
+            "text": "Celebrar suas conquistas não é egoísmo — é reconhecimento."
+        },
+        {
+            "id": 76,
+            "text": "Você tem o direito de se priorizar."
+        },
+        {
+            "id": 77,
+            "text": "Confie nos seus pequenos avanços diários."
+        },
+        {
+            "id": 78,
+            "text": "Você não é um rascunho: você é obra-prima."
+        },
+        {
+            "id": 79,
+            "text": "O tempo não cura tudo, mas ele ajuda a reorganizar."
+        },
+        {
+            "id": 80,
+            "text": "Você está escrevendo uma história linda — continue."
+        },
+        {
+            "id": 81,
+            "text": "Não minimize sua dor. Ela merece cuidado."
+        },
+        {
+            "id": 82,
+            "text": "Você merece estar em ambientes que te acolham."
+        },
+        {
+            "id": 83,
+            "text": "Não viva para provar nada a ninguém."
+        },
+        {
+            "id": 84,
+            "text": "Você é seu lar mais importante."
+        },
+        {
+            "id": 85,
+            "text": "Desistir de algo tóxico é avançar, não regredir."
+        },
+        {
+            "id": 86,
+            "text": "Você não precisa estar disponível o tempo inteiro."
+        },
+        {
+            "id": 87,
+            "text": "Você é digno de afeto mesmo"
+        },
+        {
+            "id": 88,
+            "text": "Acredite no seu potencial. Você é mais forte do que imagina e capaz de superar qualquer desafio."
+        },
+        {
+            "id": 89,
+            "text": "Cada novo dia é uma oportunidade para recomeçar. Deixe o passado para trás e construa um futuro melhor."
+        },
+        {
+            "id": 90,
+            "text": "A felicidade não é um destino, mas sim uma jornada. Aproveite cada momento e celebre as pequenas vitórias."
+        },
+        {
+            "id": 91,
+            "text": "Seja grato pelas coisas boas da vida, mesmo as mais simples. A gratidão transforma a sua perspectiva."
+        },
+        {
+            "id": 92,
+            "text": "Não desista dos seus sonhos. Com persistência e dedicação, você alcançará tudo o que almeja."
+        },
+        {
+            "id": 93,
+            "text": "Aprenda com seus erros, mas não se prenda a eles. O erro é uma oportunidade de crescimento."
+        },
+        {
+            "id": 94,
+            "text": "Cuide da sua mente, corpo e espírito. O equilíbrio é essencial para uma vida plena."
+        },
+        {
+            "id": 95,
+            "text": "Espalhe amor e gentileza por onde for. Pequenos gestos podem fazer uma grande diferença."
+        },
+        {
+            "id": 96,
+            "text": "Aceite quem você é, com suas qualidades e imperfeições. A autoaceitação é o primeiro passo para a mudança."
+        },
+        {
+            "id": 97,
+            "text": "A paciência é uma virtude. Nem tudo acontece no seu tempo, mas tudo acontece no tempo certo."
+        },
+        {
+            "id": 98,
+            "text": "Cerque-se de pessoas que te elevam e te inspiram. As boas companhias fazem toda a diferença."
+        },
+        {
+            "id": 99,
+            "text": "Enfrente seus medos. Muitas vezes, o que você mais teme é o que mais te libertará."
+        },
+        {
+            "id": 100,
+            "text": "A vida é um presente. Viva intensamente, ame profundamente e sonhe alto."
+        }
+    ]
+}
