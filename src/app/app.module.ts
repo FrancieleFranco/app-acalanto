@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/components/header/header.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeModule } from './features/home/pages/home/home.module';
+import { MessageService } from './core/service/message.service';
 
 
 @NgModule({
@@ -22,7 +23,7 @@ import { HomeModule } from './features/home/pages/home/home.module';
     HomeModule
 
   ],
-
+  providers:[MessageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
