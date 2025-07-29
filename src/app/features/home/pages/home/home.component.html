@@ -3,22 +3,15 @@
   <p>Uma mensagem positiva e uma imagem fofa para seu dia.</p>
 
   <div *ngIf="errorMessage" class="error">
-  {{ errorMessage }}
-</div>
-<app-button (clicked)="showRandomMessage()"
-  label="Mais um acalanto"
- ></app-button>
+    {{ errorMessage }}
+  </div>
+  <app-button (clicked)="showRandomMessage()" label="Mais um acalanto"></app-button>
 
-<div *ngIf="errorMessage" class="error">
-  {{ errorMessage }}
-</div>
-
-
-<div *ngIf="selectedMessage" class="message-box">
-  {{ selectedMessage.text }}
-</div>
-
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+  <div *ngIf="selectedMessage" class="message-box">
+    {{ selectedMessage.text }}
+  </div>
 
 </main>
-
-

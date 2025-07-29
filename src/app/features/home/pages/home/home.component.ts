@@ -29,7 +29,6 @@ export class HomeComponent implements OnInit {
     });
   }
 
-
   showRandomMessage(): void {
   if (this.messages.length > 0) {
     const index = Math.floor(Math.random() * this.messages.length);
